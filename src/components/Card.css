@@ -1,0 +1,24 @@
+
+
+.cardMain{
+ 
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+   
+
+}
+
+
+.card{
+    
+    width: 15rem;
+    height: 20rem;
+    text-align: center;
+    /* border: 2px solid black; */
+    margin: 3rem;
+    padding: 10%;
+    box-shadow: 0 0 10px black;
+   
+}
